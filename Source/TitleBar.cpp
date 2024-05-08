@@ -145,8 +145,6 @@ void TitleBar::CreateUIControls()
    UIBLOCK_SHIFTX(10);
    BUTTON(mLoadStateButton, "load");
    UIBLOCK_SHIFTRIGHT();
-   BUTTON(mSaveStateButton, "save");
-   UIBLOCK_SHIFTRIGHT();
    BUTTON(mSaveStateAsButton, "save as");
    UIBLOCK_SHIFTRIGHT();
    UIBLOCK_SHIFTX(10);
